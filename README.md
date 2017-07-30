@@ -1,0 +1,2 @@
+# IgnoresSSL
+Ignore SSL certificate.
