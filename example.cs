@@ -4,6 +4,6 @@ public async Task DoRequest()
         
         var client = Client.IgnoreSSLA();
         
-        //NOTE(picoloto): Use how a HttpClient
+        //NOTE(picoloto): Use as an HttpClient
         var response = await client.GetAsync(URL)
     }
